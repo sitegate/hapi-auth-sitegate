@@ -1,12 +1,12 @@
 {
-  "name": "hapi-auth-sitegate",
+  "name": "hapi-sitegate-provider",
   "version": "0.1.0",
   "description": "sitegate oauth provider for bell",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sitegate/hapi-auth-sitegate.git"
+    "url": "git+https://github.com/sitegate/hapi-sitegate-provider.git"
   },
   "keywords": [
     "hapi",
@@ -18,7 +18,7 @@
   "author": "Zoltan Kochan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sitegate/hapi-auth-sitegate/issues"
+    "url": "https://github.com/sitegate/hapi-sitegate-provider/issues"
   },
-  "homepage": "https://github.com/sitegate/hapi-auth-sitegate#readme"
+  "homepage": "https://github.com/sitegate/hapi-sitegate-provider#readme"
 }
