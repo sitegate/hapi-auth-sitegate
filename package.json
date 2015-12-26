@@ -1,6 +1,6 @@
 {
   "name": "hapi-auth-sitegate",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "sitegate oauth provider for bell",
   "main": "index.js",
   "scripts": {
